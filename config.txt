@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 First name = Stoyan
 Last name  = Tenev
 email 	   = stoian88lz@gmail.com 
 фжд
+=======
+Edited by Todor..!
+>>>>>>> bc74d1a54b9ee0d594d74b2323d9d03234350c2b
