@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 First name = Stoyan
 Last name  = Tenev
 email 	   = stoian88lz@gmail.com 
 
+=======
+ksdsgfvdhv
+>>>>>>> 57322cefdddfb87a8ac6cd0dbf59c7ce6b97d818
